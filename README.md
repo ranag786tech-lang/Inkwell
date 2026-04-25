@@ -86,7 +86,7 @@ Just open `index.html` in any modern browser. No server needed.
 3. Set source to `main` branch → root folder
 4. Your app will be live at:
    ```
-   https://yourusername.github.io/inkwell
+   https://ranag786tech-lang.github.io/Inkwell/
    ```
 
 ### Option 3 — Any Static Host
